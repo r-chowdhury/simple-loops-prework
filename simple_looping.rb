@@ -57,4 +57,4 @@ def for_iterator(number_of_times)
   end
 end
 
-loop_iterator(7)
+for_iterator(7)
